@@ -5,7 +5,7 @@ Basket Ball score tracking app.
 
 NOTE: The app is developed keeping 7inch display in mind, so kindly ignore few misplacements if any :)
 
-1. This app is used to keep track of current scores of both the teams during a basket ball match. It follows the general scoring rules of basket ball.
+1. This app is used to keep track of current scores of both the teams during a basket ball match. It follows the general scoring rules of basket ball game.
 
 
 <img src="images/scores.jpeg" width="300" height="600">
