@@ -3,6 +3,8 @@ Basket Ball score tracking app.
 
 ***ATTENTION VIEWER! you can download the apk file present inside the APK folder to experience the app. Also, i can guarantee you it's 100% safe :D
 
+NOTE: The app is developed keeping 7inch display in mind, so kindly ignore few misplacements if any :).
+
 1. This app is used to keep track of current scores of both the teams during a basket ball match. It follows the general scoring rules of basket ball.
 
 
